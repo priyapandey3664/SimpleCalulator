@@ -15,7 +15,17 @@ h2{
    
  
 }
+ 
+h3{  margin-top: -5px;;
+    text-align: center;
+    background: #999;
+    color: blueviolet;
 
+}
+
+span {
+    font-family: 'Courier New', Courier, monospace;
+}
 #display{
     background-color: aqua;
     text-align: right;
